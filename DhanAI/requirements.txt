@@ -1,0 +1,7 @@
+streamlit==1.30.0  # For web UI
+pandas==2.1.4      # For handling CSV data
+psycopg2-binary==2.9.9  # For PostgreSQL database connection
+requests==2.31.0   # For making API requests to Ollama
+python-dotenv==1.0.0  # For loading environment variables
+matplotlib==3.8.2  # For visualizations
+plotly==5.18.0     # For interactive graphs
